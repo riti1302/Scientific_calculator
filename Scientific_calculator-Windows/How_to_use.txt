@@ -1,0 +1,28 @@
+      Here are the instructions to use the Scientific calculator:
+          You can perform 30 different operations in it!
+
+       It calculates the decimal numbers upto 7 precision points.
+     In order to perform any operation follow the following steps:
+     [1] If it is a binary operation then:
+        (1) Enter the first operand.
+        (2) Enter the operator.
+        (3) Enter the second operand.
+        (4) Result will be displayed.
+   
+     [2] If it is a unary operation then:
+        (1) Enter the operand.
+        (2) Enter the operator.
+        (3) Result will be displayed.
+   
+     [3] After the execution of first operation, the second operation
+         takes the result  of first operation as its first operand.
+
+     [4] If you want to perform a fresh operation with both inputs of
+         operand  and operator taken from the user then enter "clr"
+         (i.e., clear screen).
+
+     [5] If you want to see the history of your calculations then enter
+         "mem"(i.e, memory). This will display all your calculations that
+         you performed so far.
+
+     [6] If you want to close the calcultor then enter "exit".

@@ -1,0 +1,42 @@
+    Here are the abbreviations for the operations that this
+    scientific calculator can perform:
+    
+    You need to enter the same abbreviations while performing
+    any operation.
+
+    S.no     Abbreviation       Operand                   Type
+                                                             ___
+    [1]          +                Addition                     |
+    [2]          -                Substraction                 |
+    [3]          *                Multiplication               |
+    [4]          /                Division                     |- Binary
+    [5]          %                Modulus                      |
+    [6]          ^                Power                        |
+    [7]          C                Combination                  |
+    [8]          P                Permutation                __|
+                                                             ___
+    [9]          !                Factorial                    |
+    [10]         e                Exponential function         |
+    [11]         In               Natural logarithm(base e)    |
+    [12]         log              Logarithm (base 10)          |
+    [13]         sin              sin function                 |
+    [14]         cos              cos function                 |
+    [15]         tan              tan function                 |
+    [16]         sinh             Hyberbolic sin funtion       |
+    [17]         cosh             Hyperbolic cos function      |
+    [18]         tanh             Hyperbolic tan function      |-Unary
+    [19]         sin-1            sin inverse function         |
+    [20]         cos-1            cos inverse function         |
+    [21]         tan-1            tan inverse funtion          |
+    [22]         sqrt             Square root                  |
+    [23]         abs              Absolute function            |
+    [24]         inv              Inverse function             |
+    [25]         dtb              Decimal-Binary conversion    |
+    [26]         dto              Decimal-Octal conversion     |
+    [27]         btd              Binary-Decimal conversion    |
+    [28]         otd              Octal-Decimal conversion   __|
+
+    [29]         mem              Displays the calculation history
+    [30]         clr              Clear the previous calculations
+    [31]         exit             exit calculator
+ 
